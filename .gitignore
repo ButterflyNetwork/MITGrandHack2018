@@ -1,3 +1,6 @@
+butterfly_mini_dataset/
+butterfly_mini_dataset*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
